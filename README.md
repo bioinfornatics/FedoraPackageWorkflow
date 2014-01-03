@@ -1,4 +1,4 @@
-FedoraPackageWorkfow
+FedoraPackageWorkflow
 ====================
 
 Fedora Package Workfow
